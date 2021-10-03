@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    background-color: deepskyblue;
+}
+
+div.esquerdosuperior{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(131, 139, 61);
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+div.esquerdoinferior{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(131, 139, 61);
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+div.direitosuperior{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(131, 139, 61);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+}
+div.direiroinferior{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(131, 139, 61);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}

@@ -1,0 +1,12 @@
+1. Qual a diferença da unidade de medida em e rem? 
+em usa o valor de referência mais próximo, o rem usa o valor de root como referência.
+
+2. Como é criada uma variável no CSS? Dê um exemplo. 
+
+<div id="pai">
+  <div id="filho"></div>
+</div>
+
+:root {
+    --cor de background: background-color: red
+}

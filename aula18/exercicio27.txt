@@ -1,0 +1,9 @@
+1. Como podemos definir uma URL, dê um exemplo.
+É um endereço para referências de um site.
+
+2. O que é  o HTTP?
+Protocolo de Transferência de Hipertexto, é um protocolo que estabelece a comunicação entre o 
+navegdor e o servidor web.
+
+3. O que são vendors em CSS?
+São configurações especificas feitas pelos fabricantes dos navegadores

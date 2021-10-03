@@ -1,0 +1,4 @@
+Background. Ex: background: radial-gradient(circle, #f5f5f5, #212121, #f5f5f5);
+É recomendado que seja feita acima do código, mas no caso de necessidade poderá ser usada inline.
+Px é uma unidade de medida fixa, já a % é proporcional e adaptavel.
+

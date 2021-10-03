@@ -1,0 +1,8 @@
+1. Quais os possíveis métodos para referenciar um seletor em um estilo CSS?
+ id e class
+
+2. Qual a finalidade do atributo HREF em uma âncora?
+levar o usuario a uma determinada posição na pagina ou outra pagina
+
+3. Qual é a tag semântica para criar menus de navegação? 
+<nav> </nav> 
